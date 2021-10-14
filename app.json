@@ -16,10 +16,12 @@
   "env": {
     "API_KEY": {
       "description": "Dapatkan Api Key di web my.telegram.org.",
+      "value": "8619319",
       "required": true
     },
     "API_HASH": {
       "description": "Dapatkan Api Hash Di Web my.telegram.org.",
+      "value": "5d0a2374f2d4be99addb2839a894bc2f",
       "required": true
     },
     "ALIVE_LOGO": {
@@ -29,6 +31,7 @@
      },
      "STRING_SESSION": {
       "description": "Ambil String Session di @ramubotspam dengan cara ketik #string.",
+       "value": "1BVtsOIQBuz6T-LAPM4f6p4UGnXvfGsD1dve-4Uw996bW067-FlZKy77-odbOHCBeSLWnOBQpvXV2X4kNp8pBL2hlloCnjNVBWeV07ijc978BZblX86-qzeMsofpmLFUeySZa6xa7DxCnopWHDH6BWY57LaplcaN6nu7_v9e3DQbWGVy2one3NkwUjTLX7xEHUSS4eKONBjudA_cODP73ufgQUI4_OR055PhfEpeT1J2-zgasS4WTRoO1xQeySJGCoaLcbyaQIZNRXygSpAAT-nv3awRGP9eNgXF1Ge4pqlZ6eyT9h4MulvlyHS3fCp3YYVJTbtq6WK1L2af5zwsEednMCWk-o7o=",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -47,7 +50,7 @@
     },
     "BOTLOG_CHATID": {
       "description": "Masuk @ootspambot atau Buatlah sebuah grup private/public masukan @goku_isbot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
-      "value": "-1001122897608",
+      "value": "-1001278459272",
       "required": true
     },
     "COUNTRY": {
@@ -91,7 +94,7 @@
     },
     "G_BAN_LOGGER_GROUP": {
       "description": "Masuk @ootspambot Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @goku_isbot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
-      "value": "-1001122897608",
+      "value": "-1001278459272",
       "required": false
     },
     "LOGSPAMMER": {
@@ -101,10 +104,12 @@
     },
     "BOT_TOKEN": {
       "description": "Untuk menampilkam mode tombol .rhelp, Ambil token di @BotFather",
+      "value": "2002397353:AAGCNHl1MJU2xrNnS5JS2x7i2oKkD-gkA48",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "isi username bot mu yang dari @BotFather",
+      "value": "Tikacakep_bot",
       "required": true
     }
   },
